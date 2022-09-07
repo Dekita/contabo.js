@@ -1,5 +1,5 @@
 {
-    "name": "contabo-api",
+    "name": "contabo.js",
     "version": "0.0.1",
     "description": "node.js interface for contabo.com api",
     "main": "./src/api.js",
