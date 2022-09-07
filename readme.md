@@ -1,4 +1,5 @@
 [<img src="https://raw.githubusercontent.com/Dekita/contabo.js/master/contabo.png" style="margin-top: 28px;">](https://contabo.com/)
+[<img src="https://dekitarpg.com/img/logo-sm.png" style="margin-top: 28px;">](https://dekitarpg.com/)
 --------------------------------------------------------------------------------
 
 # What is Contabo.js? 
@@ -121,5 +122,5 @@ const ContaboAPI = require('contabo.js');
     }));
 
 })();
+```
 
-[<img src="https://dekitarpg.com/img/logo.png" style="margin-top: 28px;">](https://dekitarpg.com/)
