@@ -2,9 +2,7 @@
 --------------------------------------------------------------------------------
 
 # What is Contabo.js? 
-Contabo.js is a node.js interface to the Contabo API. Contabo is a cloud vps/dedicated server provider that offers competitve prices on their vps products!!
-
-This module allows you to create/destroy/manage all aspects of your vps/object-storage/images etc. Basically, its a full node.js implementation of the Contabo API.
+Contabo.js is a node.js interface to the Contabo API. Contabo is a cloud vps/dedicated server provider that offers competitve prices on their vps products. This module allows you to create/destroy/manage all aspects of your vps/object-storage/images etc. Basically, its a full node.js implementation of the Contabo API.
 
 For API Information See: https://api.contabo.com/
 For Contabo VPS Info See: https://contabo.com/en/
@@ -123,4 +121,4 @@ const ContaboAPI = require('contabo.js');
 })();
 ```
 
-[<img src="https://dekitarpg.com/img/logo-sm.png" style="margin-top: 28px;">](https://dekitarpg.com/)
+[<img src="https://dekitarpg.com/img/logo.png" style="margin-top: 28px;">](https://dekitarpg.com/)
