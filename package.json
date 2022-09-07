@@ -1,0 +1,26 @@
+{
+    "name": "contabo-api",
+    "version": "0.0.1",
+    "description": "node.js interface for contabo.com api",
+    "main": "./src/api.js",
+    "scripts": {
+        "start": "node ./src/api.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "DekitaRPG",
+        "email": "dekitarpg@gmail.com",
+        "url": "https://dekitarpg.com"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.0.2",
+        "eventemitter3": "^4.0.7",
+        "node-fetch": "^2.x",
+        "uuid": "^9.0.0"
+    },
+    "keywords":[
+        "contabo.com",
+        "saas api"
+    ]
+}
