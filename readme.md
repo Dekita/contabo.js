@@ -9,7 +9,7 @@ For Contabo VPS Info See: https://contabo.com/en/
 
 ## License TLDR
 ```MIT - Copyright (c) 2021 Dekita (dekitarpg@gmail.com)```
-[[view license]](https://github.com/Dekita/contabo.js/blob/main/LICENSE)
+[[view license]](https://github.com/Dekita/contabo.js/blob/main/license)
 
 ## API Documentation
 [https://api.contabo.com/](https://api.contabo.com/)
