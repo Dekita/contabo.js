@@ -1,6 +1,6 @@
 {
     "name": "contabo.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "node.js interface for contabo.com api",
     "main": "./src/api.js",
     "scripts": {
@@ -11,6 +11,10 @@
         "name": "DekitaRPG",
         "email": "dekitarpg@gmail.com",
         "url": "https://dekitarpg.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dekita/contabo.js"
     },
     "license": "MIT",
     "dependencies": {
